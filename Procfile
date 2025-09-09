@@ -1,0 +1,1 @@
+web: gunicorn ita_project.wsgi:application
