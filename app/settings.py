@@ -101,10 +101,10 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'ita_rh',
+        'NAME': 'ita',
         'USER': 'root',
-        'PASSWORD': 'N2Hx7b1MY38FuLKZaYP0ldrd9R97ASMK',
-        'HOST': 'dpg-d304bcje5dus73emvnm0-a',  # Or your database host
+        'PASSWORD': 'XrT&Kdfu4n7BkWd',
+        'HOST': 'https://iachpfyheyuwxroltqdr.supabase.co',  # Or your database host
         'PORT': '5432',           # Default port for PostgreSQL is 5432
     }
 }
