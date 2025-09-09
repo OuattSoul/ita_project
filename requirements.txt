@@ -97,6 +97,7 @@ wcwidth==0.2.13
 web3==7.12.1
 websockets==15.0.1
 Werkzeug==3.1.3
-windows-curses==2.4.1
+#windows-curses==2.4.1
 yarl==1.20.1
+
 
