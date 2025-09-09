@@ -29,7 +29,7 @@ class CustomUser(AbstractBaseUser, PermissionsMixin):
     REQUIRED_FIELDS = ["password"]
 
     class Meta:
-        db_table = "employees"   # ✅ nom physique en DB Postgres
+        db_table = "employee"   # ✅ nom physique en DB Postgres
 
 
 
