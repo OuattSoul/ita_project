@@ -104,7 +104,7 @@ DATABASES = {
         'NAME': 'ita',
         'USER': 'root',
         'PASSWORD': 'XrT&Kdfu4n7BkWd',
-        'HOST': 'https://iachpfyheyuwxroltqdr.supabase.co',  # Or your database host
+        'HOST': 'iachpfyheyuwxroltqdr.supabase.co',  # Or your database host
         'PORT': '5432',           # Default port for PostgreSQL is 5432
     }
 }
