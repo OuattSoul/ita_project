@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-csy*c=8oc^1e3&-z^@#@qm04ruh^)_@rf0sbki4q@^nc#m78o-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mon-api.onrender.com']
+ALLOWED_HOSTS = ['https://ita-project-1.onrender.com']
 
 SIMPLE_JWT = {
     "ACCESS_TOKEN_LIFETIME": timedelta(minutes=15),  # token valide 15 min
