@@ -18,7 +18,7 @@ from django.contrib import admin
 from django.urls import path
 from django.conf import settings
 from django.conf.urls.static import static
-from ita_project.views import db_connectivity,register_user_postgres,login_with_code,protected_view,create_recruitment_request,create_employee,create_leave_request,assign_missions
+from .views import db_connectivity,register_user_postgres,login_with_code,protected_view,create_recruitment_request,create_employee,create_leave_request,assign_missions
 from django.urls import path, include
 from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
 
